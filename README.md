@@ -1,2 +1,2 @@
 # laughing-doodle
-console.log(myAge)
+confirm("Am i really doing this")
